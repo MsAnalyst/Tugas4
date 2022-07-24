@@ -1,4 +1,7 @@
 # Tugas4
+Nama Siswa: Dewi Astuti
+Username: Dewi_I4Zs
+
 Tujuan Pengerjaan Project: 
 Mengelola dan merapikan data yang ada.
 
