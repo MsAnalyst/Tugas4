@@ -23,14 +23,13 @@ z
         filter
 8. Melakukan splitting namun tidak berhasil karena kendala size limit --> 
      filter[['category','productnm','product_name']]=filter.category_code.str.split(".",expand=True)filter[['category','productnm','product_name']]=filter.category_code.str.split(".",expand=True)
- 
 
 Cara Running/Penggunaan Program:
 Untuk menjalankan script ini, maka perlu membuka aplikasi Jupyter lalu membuat file baru dengan extensi file ".ipynb", lalu bisa di-copas script yang ada di Repository ini ataupun didownload. Selain itu bisa juga menggunakan VSCode (extension Python dan Jupyter harus telah dipasang).
 
 Saran Perbaikan: 
-Menggunakan file 
+Menggunakan file yang lebih sedikit datanya. 
 
 Tambahan: 
-Saya menggunakan Python karena saya tidak menggunakan Linux. Selain itu, data yang dikelola terlalu besar dan masih kurang paham tentang penggunaan bash/shell. Maka, ada kendala saat Splitting kolom.
+Saya menggunakan Python karena saya tidak menggunakan Linux dan saat menggunakan emulator Linux, saya tidak dapat menemukan letak main folder/folder utama dari emulator tersebut. Selain itu, data yang dikelola terlalu besar dan masih kurang paham tentang penggunaan bash/shell. Maka, ada kendala saat splitting kolom.
 
