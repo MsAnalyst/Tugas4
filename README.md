@@ -32,5 +32,5 @@ Saran Perbaikan:
 Menggunakan file 
 
 Tambahan: 
-Saya menggunakan Python karena data yang dikelola terlalu besar dan masih kurang paham tentang penggunaan bash/shell. Maka, ada kendala saat Splitting kolom.
+Saya menggunakan Python karena saya tidak menggunakan Linux. Selain itu, data yang dikelola terlalu besar dan masih kurang paham tentang penggunaan bash/shell. Maka, ada kendala saat Splitting kolom.
 
